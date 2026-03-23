@@ -1,1 +1,2 @@
 context engineering: https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents
+system prompt repository: https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
