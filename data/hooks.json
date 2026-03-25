@@ -1,0 +1,47 @@
+[
+  {
+    "id": "claude-code-hooks",
+    "name": "Claude Code Hooks Collection",
+    "description": "A growing collection of useful, ready-to-use Claude Code hooks you can copy, paste, and customize for your workflows.",
+    "category": "Automation",
+    "repo_url": "https://github.com/karanb192/claude-code-hooks",
+    "author": "karanb192",
+    "event_types": ["PreToolUse", "PostToolUse"]
+  },
+  {
+    "id": "claude-code-hooks-mastery",
+    "name": "Claude Code Hooks Mastery",
+    "description": "Complete hook lifecycle coverage with all 13 hook events implemented, logged, and documented for learning and reference.",
+    "category": "Observability",
+    "repo_url": "https://github.com/disler/claude-code-hooks-mastery",
+    "author": "disler",
+    "event_types": ["PreToolUse", "PostToolUse", "Notification", "Stop", "SubagentStop", "SessionStart"]
+  },
+  {
+    "id": "claude-code-hooks-multi-agent-observability",
+    "name": "Multi-Agent Observability Hooks",
+    "description": "Real-time monitoring and event tracking for Claude Code multi-agent systems with structured logging.",
+    "category": "Observability",
+    "repo_url": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
+    "author": "disler",
+    "event_types": ["PreToolUse", "PostToolUse", "Stop", "SubagentStop"]
+  },
+  {
+    "id": "claude-hooks-clean-code",
+    "name": "Clean Code Hooks",
+    "description": "Comprehensive hooks for enforcing clean code practices, running linters, and automating code quality workflows.",
+    "category": "Code Quality",
+    "repo_url": "https://github.com/decider/claude-hooks",
+    "author": "decider",
+    "event_types": ["PostToolUse"]
+  },
+  {
+    "id": "awesome-claude-code",
+    "name": "Awesome Claude Code",
+    "description": "A curated list of skills, hooks, slash-commands, and plugins for Claude Code contributed by the community.",
+    "category": "Other",
+    "repo_url": "https://github.com/hesreallyhim/awesome-claude-code",
+    "author": "hesreallyhim",
+    "event_types": []
+  }
+]

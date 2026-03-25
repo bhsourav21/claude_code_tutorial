@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HookHub — Discover Claude Code Hooks</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-950 text-gray-100 min-h-screen">
+    <header class="border-b border-gray-800">
+        <div class="max-w-6xl mx-auto px-4 py-6">
+            <h1 class="text-3xl font-bold tracking-tight">
+                <span class="text-orange-400">Hook</span>Hub
+            </h1>
+            <p class="text-gray-400 mt-1">Discover open-source Claude Code hooks</p>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-4 py-8">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="border-t border-gray-800 mt-12">
+        <div class="max-w-6xl mx-auto px-4 py-6 text-center text-gray-500 text-sm">
+            HookHub — an open-source directory for Claude Code hooks
+        </div>
+    </footer>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>
