@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv run /Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/hook/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
