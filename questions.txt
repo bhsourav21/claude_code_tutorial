@@ -1,0 +1,14 @@
+questions:
+    1. difference between promt engineering and context engineering
+    2. when to create a spec file
+    3. what is deep agent and how claude fits into this category
+
+
+pending:
+    1. list all slash commands
+        - /init 
+        - /mcp
+        - /security-review
+        - /model
+        - /exit
+        - 
