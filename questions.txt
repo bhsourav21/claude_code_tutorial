@@ -11,4 +11,20 @@ pending:
         - /security-review
         - /model
         - /exit
-        - 
+        - /clear
+        - /compact
+        - /agents
+        - /config
+        - /cost
+        - /ide
+        - /hooks
+        - /memory
+
+    2. Add all hooks to hooks directory
+        
+command:
+    - claude --help
+    - 
+
+Note:
+ - claude memory is very similar to cursor rules
