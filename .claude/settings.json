@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "/Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/claude_code_tutorial/.venv/bin/python /Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/claude_code_tutorial/hook/play_sound.py"
+          }
+        ]
+      }
+    ]
+  }
+}
