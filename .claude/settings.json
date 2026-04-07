@@ -5,13 +5,10 @@
         "hooks": [
           {
             "type": "command",
-            "command": "uv run /Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/claude_code_tutorial/hook/play_sound.py"
+            "command": "/Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/claude_code_tutorial/.venv/bin/python /Users/souravbhattacharya/Documents/Certifications_Learning/learning/claude_code_tutorial/claude_code_tutorial/hook/play_sound.py"
           }
         ]
       }
     ]
-  },
-  "enabledPlugins": {
-    "pyright-lsp@claude-plugins-official": true
   }
 }
